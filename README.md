@@ -16,3 +16,4 @@ If you are developing a production application, we recommend using TypeScript wi
 - Project 1: Accordion
 - Project 2: Random Color Generator
 - Project 3: Image Slider
+- Project 4: Load More

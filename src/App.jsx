@@ -1,6 +1,7 @@
 import Accordion from "./project_1/Accordion";
 import RandomColor from "./project_2/RandomColor";
 import ImageSlider from "./project_3/ImageSlider";
+import LoadMore from "./project_4/LoadMore";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Accordion />
       <RandomColor />
       <ImageSlider />
+      <LoadMore />
     </>
   );
 };

@@ -20,6 +20,7 @@ const RandomColor = () => {
         Generate Random Color
       </button>
       <div
+        onClick={generateRandomColor}
         className={`w-full h-full py-5 border ${
           color === " " ? "text-black" : "text-white border-0"
         }`}
