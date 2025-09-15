@@ -5,6 +5,7 @@ import ImageSlider from "./Project_3/ImageSlider";
 const App = () => {
   return (
     <>
+      {/* Projects */}
       <Accordion />
       <RandomColor />
       <ImageSlider />
