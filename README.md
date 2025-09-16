@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - Project 3: Image Slider
 - Project 4: Load More
 - Project 5: QR Code Generator
+- Project 6: Theme Toggle
+- Project 7: String Reverser
