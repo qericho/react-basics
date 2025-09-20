@@ -7,6 +7,7 @@ import QrCodeGenerator from "./project_5/QrCodeGenerator";
 import ThemeToggle from "./project_6/ThemeToggle";
 import StringReverser from "./project_7/StringReverser";
 import Calculator from "./project_8/Calculator";
+import Todo from "./project_9/Todo";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <StringReverser />
       <Calculator />
       <BackToTop />
+      <Todo />
     </>
   );
 };

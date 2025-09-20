@@ -21,3 +21,4 @@ If you are developing a production application, we recommend using TypeScript wi
 - Project 6: Theme Toggle
 - Project 7: String Reverser
 - Project 8: Calculator
+- Project 9: Todo App
