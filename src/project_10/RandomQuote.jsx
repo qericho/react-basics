@@ -17,7 +17,7 @@ const RandomQuote = () => {
 
   console.log(randomID);
   return (
-    <div className="max-w-3xl mx-auto h-full border border-gray-400 p-10 my-10 relative">
+    <div className="max-w-3xl mx-auto h-full border border-gray-300 p-10 my-10 relative">
       <h1 className="font-mono absolute top-5 left-5 text-2xl">
         Random Quotes Generator
       </h1>
