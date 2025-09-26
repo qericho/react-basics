@@ -1,5 +1,6 @@
 import BackToTop from "./backtotop/BackToTop";
 import Accordion from "./project_1/Accordion";
+import RandomQuote from "./project_10/RandomQuote";
 import RandomColor from "./project_2/RandomColor";
 import ImageSlider from "./project_3/ImageSlider";
 import LoadMore from "./project_4/LoadMore";
@@ -23,6 +24,7 @@ const App = () => {
       <Calculator />
       <BackToTop />
       <Todo />
+      <RandomQuote />
     </>
   );
 };
